@@ -1,7 +1,8 @@
-## Hello, I'm João Khalaf!  
+## Hello, I'm João Khalaf  
 
-Software Developer | Javascript • Typescript • React • DevOps  
+Software Developer  
+JavaScript • TypeScript • React • DevOps  
 
-_Don't expect too much here, I'm in the middle of the semester._
+Exploring Open Source projects  
 
-[Portfolio](https://www.joaokhalaf.dev/)  
+[joaokhalaf.dev](https://www.joaokhalaf.dev/)
